@@ -1,7 +1,7 @@
 {
   "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://telegra.ph/file/9f31b3a61c4897b297a33.jpg",
+  "logo": "https://telegra.ph/file/c36f3abfb0971fca608f1.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "Its_Venom_family"
+      "value": "Bothub_xD"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
