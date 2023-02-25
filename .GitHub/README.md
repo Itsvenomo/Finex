@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/9f31b3a61c4897b297a33.jpg" alt="StringGen">
+  <img src="https://telegra.ph/file/c36f3abfb0971fca608f1.jpg" alt="StringGen">
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itsvenomo/String"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Itsvenomo/Finex"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
