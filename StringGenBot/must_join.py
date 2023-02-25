@@ -13,14 +13,14 @@ async def must_join_channel(bot: Client, msg: Message):
             await bot.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
             if MUST_JOIN.isalpha():
-                link = "Its_Venom_family" + MUST_JOIN
+                link = "Bothub_xD" + MUST_JOIN
             else:
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
             try:
-                await msg.reply_photo(photo="https://telegra.ph/file/9f31b3a61c4897b297a33.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ᴠᴇɴᴏᴍ ғᴀᴍɪʟʏ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ᴠᴇɴᴏᴍ ғᴀᴍɪʟʏ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
+                await msg.reply_photo(photo="https://telegra.ph/file/c36f3abfb0971fca608f1.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ᴠᴇɴᴏᴍ ғᴀᴍɪʟʏ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ᴠᴇɴᴏᴍ ғᴀᴍɪʟʏ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("🥺 ᴠᴇɴᴏᴍ ғᴀᴍɪʟʏ 🥺", url=f"{link}")]
+                        [InlineKeyboardButton("🥺 ʙᴏᴛʜᴜʙ_xᴅ 🥺", url=f"{link}")]
                     ])
                 )
                 await msg.stop_propagation()
