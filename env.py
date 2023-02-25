@@ -8,7 +8,7 @@ API_HASH = os.getenv("API_HASH", "45f3a3ac8effd88e42aeabe3cfe4f520").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5537497510").split()))
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "Its_Venom_family")
+MUST_JOIN = os.getenv("MUST_JOIN", "Bothub_xD")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
